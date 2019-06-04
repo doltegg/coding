@@ -23,18 +23,6 @@ nickname: ''
 bio: '試著用外文字母變數與天書般結構函數罵髒話'
 avatar: '/assets/img/profile.jpg'
 
-# highlighting
-#markdown: kramdown
-#kramdown:
-#  syntax_highlighter: pygments
-#highlighter: pygments
-markdown: kramdown
-kramdown:
-    highlighter: rouge
-    syntax_highlighter_opts:
-        block:
-            line_numbers: true
-            
 # Search
 search: true
 
