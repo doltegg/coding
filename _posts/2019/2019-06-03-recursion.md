@@ -10,7 +10,11 @@ categories: Python
 tags: [function, recursion] 
 ---
 
+<script src="prism.js"></script>
+<link rel="stylesheet" type="text/css" href="prism.css">
+
 ```
+<pre><code class='language-python line-numbers'>
 def tri_recursion(k):
   if(k>0):
     result = k+tri_recursion(k-1)
@@ -21,4 +25,5 @@ def tri_recursion(k):
 
 print("\n\nRecursion Example Results")
 tri_recursion(6)
+</code></pre>
 ```
