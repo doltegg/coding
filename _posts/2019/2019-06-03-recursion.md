@@ -9,7 +9,8 @@ description:
 categories: Python
 tags: [function, recursion] 
 ---
-'''
+
+```
 def tri_recursion(k):
   if(k>0):
     result = k+tri_recursion(k-1)
@@ -20,4 +21,4 @@ def tri_recursion(k):
 
 print("\n\nRecursion Example Results")
 tri_recursion(6)
-'''
+```
