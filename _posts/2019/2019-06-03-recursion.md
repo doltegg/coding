@@ -11,7 +11,7 @@ tags: [function, recursion]
 ---
 
 
-```python{numberLines: true}
+```python{}{numberLines: true}
 def tri_recursion(k):
   if(k>0):
     result = k+tri_recursion(k-1)
