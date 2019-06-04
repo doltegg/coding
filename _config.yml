@@ -16,9 +16,10 @@ baseurl: "/language"
 
 # Navigation links
 nav:
-  home: '/'
-  分類: '/'
-  tags: '/tags.html'
+  首頁: '/'
+  分類: '/series.html'
+  標籤: '/tags.html'
+  關於: '/about.html'
 
 # Footer
 footer:
