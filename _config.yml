@@ -17,6 +17,7 @@ baseurl: "/language"
 # Navigation links
 nav:
   home: '/'
+  分類: '/'
   tags: '/tags.html'
 
 # Footer
