@@ -19,8 +19,8 @@ nav:
   首頁: '/'
   分類: '/series.html'
   標籤: '/tags.html'
-  關於: '/about.html'
   鏈結: '/friendlylink.html'
+  關於: '/about.html'
 
 # Footer
 footer:
