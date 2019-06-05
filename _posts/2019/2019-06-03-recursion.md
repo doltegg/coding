@@ -9,7 +9,7 @@ description:
 categories: Python
 tags: [function, recursion] 
 ---
-
+## Chapter 1
 
 ```python
 def tri_recursion(k):
@@ -24,4 +24,6 @@ print("\n\nRecursion Example Results")
 tri_recursion(6)
 ```
 
+#### Section 1.1
 
+## Chapter 2
