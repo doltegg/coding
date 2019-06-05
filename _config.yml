@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: egg's language
-description: The notes of egg's program language.
+title: egg's coding
+description: The notes of egg's coding.
 keyword: Python, JavaScript, Excel VBA,
 url: "https://dotegg.github.io" # your host
 baseurl: "/language"
