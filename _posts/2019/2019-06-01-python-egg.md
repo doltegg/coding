@@ -99,7 +99,7 @@ import antigravity
 
 输入这行代码，会直接跳转到漫画网页 xkcd。漫画很有意思，一个人漂浮在天空中，他的一位朋友好奇的问他是怎么飞起来的。
 
-<img src="/coding/assets/img/2019/python.png="display:block;margin:auto;width:460px"/>
+<img src="/coding/assets/img/2019/python.png" style="display:block;margin:auto;width:460px" />
 
 对话内容大致翻译：
 
