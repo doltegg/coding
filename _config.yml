@@ -3,7 +3,7 @@ title: egg's coding
 description: The notes of egg's coding.
 keyword: Python, JavaScript, Excel VBA,
 url: "https://dotegg.github.io" # your host
-baseurl: "/language"
+baseurl: "/coding"
 
 # Navigation links
 nav:
