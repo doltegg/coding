@@ -71,7 +71,27 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-### “反重力”对话
+参考翻译：
+
+优美胜于丑陋。
+显式胜于隐式。
+简单胜于复杂。
+复杂胜于难懂。
+扁平胜于嵌套。
+分散胜于密集。
+可读性应当被重视。
+尽管实用性会打败纯粹性，特例也不能凌驾于规则之上。
+除非明确地使其沉默，错误永远不应该默默地溜走。
+面对不明确的定义，拒绝猜测的诱惑。
+用一种方法，最好只有一种方法来做一件事。
+虽然一开始这种方法并不是显而易见的，但谁叫你不是 Python 之父呢。
+做比不做好，但立马去做有时还不如不做。
+如果实现很难说明，那它是个坏想法。
+如果实现容易解释，那它有可能是个好想法。
+命名空间是个绝妙的想法，让我们多多地使用它们吧！
+
+
+### 「反重力」對話
 
 ```python
 import antigravity
@@ -79,7 +99,7 @@ import antigravity
 
 输入这行代码，会直接跳转到漫画网页 xkcd。漫画很有意思，一个人漂浮在天空中，他的一位朋友好奇的问他是怎么飞起来的。
 
-
+<img src="/coding/assets/img/2019/python.png="display:block;margin:auto;width:460px"/>
 
 对话内容大致翻译：
 
