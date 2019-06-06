@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python 彩蛋
-subtitle:
+subtitle:  據說 Python 有 5 個有趣的彩蛋。
 date: 2019-06-01 21:00:00 +0800
 author: egg
 cover: ''
