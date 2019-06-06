@@ -32,7 +32,7 @@ True
 ```
 
 ### 由 C++ 轉換到 Python
-'braces' 庫也是一個具有濃厚程序員風格的玩笑，它在其文檔中提到，當在編寫 Python 代碼時使用這個庫可提供使用 C++ 花括號的功能。但當你嘗試使用它的时候，你將會看到：
+"braces" 庫也是一個具有濃厚程序員風格的玩笑，它在其文檔中提到，當在編寫 Python 代碼時使用這個庫可提供使用 C++ 花括號的功能。但當你嘗試使用它的时候，你將會看到：
 
 ```python
 >>> from __future__ import braces
@@ -98,38 +98,38 @@ Namespaces are one honking great idea -- let's do more of those!
 import antigravity
 ```
 
-输入这行代码，会直接跳转到漫画网页 xkcd。漫画很有意思，一个人漂浮在天空中，他的一位朋友好奇的问他是怎么飞起来的。
+輸入這行代碼，瀏覽器會直接跳轉到漫畫網頁。漫畫很有意思，一個人飄浮在天空中，他的一位朋友好奇的問他是怎麼飛起來的。
 
 <img src="/coding/assets/img/2019/python.png" style="display:block;margin:auto;width:460px" />
 
-对话内容大致翻译：
+參考翻譯：
 
 上图：
 
-“你在飞！怎么做到的？”
+「你在飛！怎麼做到的？」
 
 “Python!”
 
 下左：
 
-“我昨晚学习了 Python，一切都是那么简单”
+「我昨晚學習了 Python，一切都是那麼簡單。」
 
-“运行 HELLO WORLD 只需要 print "Hello World!"”
+「運行 HELLO WORLD 只需要 print "Hello World!"」
 
 下中：
 
-“我还是不明白……动态类型，还是空格？”
+「我還是不明白... 動態類型，還是空格？」
 
-“来加入我们吧，编程又再次变得有趣起来了，Python 是一个全新的世界”
+「來加入我們吧，編程又再次變得趣味起來了，Python 是一個全新的世界。」
 
-“但你是怎么飞起来的？”
+「但你是怎麼飛起來的？」
 
 下右：
 
-“我只是输入了 import antigravity”
+「我只是輸入了 import antigravity」
 
-“就这样？”
+「就這樣？」
 
-“我还对药品柜中的所有东西进行了采样比较”（暗指他对比过多种编程语言，但还是觉得 Python 最简单）
+「我還對藥品櫃中的所有東西進行了採樣比對。」(按指他對比過多種語言，但還是覺得 Python 最簡單)
 
-“但我想这就是 Python.”
+「但我想這就是 Python。」
