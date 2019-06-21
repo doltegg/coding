@@ -34,4 +34,4 @@ plt.show()
 
 執行結果：
 
-<img src="https://doltegg.github.io/coding/assets/img/2019/matplotlibout1.jpg" style="width:250px"/>
+<img src="https://doltegg.github.io/coding/assets/img/2019/matplotlibout1.jpg" style="width:400px"/>
