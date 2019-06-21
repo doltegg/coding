@@ -31,3 +31,6 @@ plt.tick_params(axis='both', labelsize=12, color='red')
 plt.savefig('out.jpg', bbox_inches='tight')
 plt.show()
 ```
+
+
+<img src="https://doltegg.github.io/coding/others/egg/story1.jpg" style="width:250px"/>
