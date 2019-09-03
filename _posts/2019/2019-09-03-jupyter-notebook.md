@@ -13,7 +13,7 @@ tags: []
 1. Shift $+$ Enter： 執行這個 cell。
 2. Esc $+$ A： 在現有的 cell 上方新增一個 cell (A 是 above 的意思)。
 3. ESC $+$ B： 在現有的 cell 下方新增一個 cell (B 是 below 的意思)。
-4. Esc $+$ h： help 的意思，能列出所有快捷鍵。
+4. Esc $+$ H： help 的意思，能列出所有快捷鍵。
 5. Shift $+$ Tab： 函式的說明，不需要再去 google 相關的文件。
 
 
