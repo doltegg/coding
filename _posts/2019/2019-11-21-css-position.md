@@ -54,7 +54,7 @@ div{
 ````
 
 ### 結果
-<img src="https://doltegg.github.io/coding/assets/img/2019/cssposition.jpg" style="width:750px"/>
+<img src="https://doltegg.github.io/coding/assets/img/2019/cssposition.jpg" style="width:700px"/>
 
 ### 結論
 - Static 代表只能用自動排列的位置，不能調整偏移。
