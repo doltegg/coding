@@ -55,3 +55,8 @@ div{
 
 ### 結果
 <img src="https://doltegg.github.io/coding/assets/img/2019/cssposition.jpg" style="width:800px"/>
+
+### 結論
+- Static 代表只能用自動排列的位置，不能調整偏移。
+- Absolute 只能針對可以定位的上層元素做調整：它只能載 relative、absolute、fixe 三種屬性的元素做獨特的定位。
+- Fixed 最常拿來當導覽列，它會固定在視窗的同一個位置。
