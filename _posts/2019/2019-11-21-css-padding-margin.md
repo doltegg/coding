@@ -25,7 +25,7 @@ tags: [HTML, CSS]
   <li class="inner">
     項目清單
   </li>
-    <li class="inner">
+  <li class="inner">
     項目清單
   </li> 
 </ul>
