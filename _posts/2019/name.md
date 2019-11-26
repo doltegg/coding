@@ -1,3 +1,4 @@
+
 <div class="mark">NAMECARD</div>
 <div class="namecard">
 <h2>許惠綾
@@ -15,7 +16,7 @@
 
 
 
-<script>
+<style>
 *{
 /*   border: solid 1px; */
   font-family: 微軟正黑體;
@@ -92,4 +93,4 @@ body{
   font-weigth: 100;
   color: rgba(0,0,0,0.035)
 }
-</script>
+</style>
